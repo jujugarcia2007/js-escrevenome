@@ -1,17 +1,3 @@
 # js-escrevenome
-nao entendi nada do que é pra fazer pois nao tenho o codigo @@@@@@@@@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.3/p5.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.3/addons/p5.sound.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <meta charset="utf-8" />
-
-  </head>
-  <body>
-    <main>
-    </main>
-    <script src="sketch.js"></script>
-  </body>
-</html>
+oiii, esse aqui é minha conta. to fazendo esse perfil por conta da aula do alura
+aaaaaa
